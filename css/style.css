@@ -93,15 +93,13 @@ nav .logo {
 }
 .container1 {
     position: sticky;
-    text-align: right;
+    text-align: left;
     padding: 2%;
-    float: right;
+    float: left;
 }
 .container2 {
     position: sticky;
-    text-align: left;
+    text-align: right;
     padding: 2%;
 }
-.buttonFlexbox {
-    flex-direction: row
-}
+
