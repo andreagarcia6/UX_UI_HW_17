@@ -1,0 +1,90 @@
+body {
+    background-color: #9BC09F;
+}
+.inline-block {
+display: inline-block;
+vertical-align: top;
+}
+#aboutme {
+text-align: center;
+}
+.logo {
+    width: 23%;
+    text-align: left;
+}
+nav {
+    width: 98%;
+    padding: 1%;
+}
+ul {
+    width: 90%;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Red Rose', cursive;
+    text-align: right;
+    word-spacing: 1cm;
+}
+.heroimg {
+    height: 500px;
+    padding: 15px;
+}
+footer {
+    background: #FDFEDE;
+}
+button {
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+    padding: 1%;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Red Rose', cursive;
+    border-radius: 8px;
+    margin: 2%;
+    text-align: right;
+
+}
+p {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Red Rose', cursive;
+    vertical-align: text-bottom; 
+    padding: 2%;
+}
+h1 {
+    padding: 4%;
+    font-size: 40px;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Red Rose', cursive;
+    float: left;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Red Rose', cursive;
+}
+.content {
+    text-align: center;
+    background-color: #FFEAEA;
+    padding: 2%;
+    margin: 4%;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Red Rose', cursive;
+}
+nav .logo {
+    float: left;
+}
+.heroimg {
+    background-color: #FFFFFF;
+    padding: 2%;
+    margin: 4%;
+}
+div#content > img {
+    float: right;
+}
